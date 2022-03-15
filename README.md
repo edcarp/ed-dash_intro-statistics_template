@@ -17,6 +17,8 @@ Next, copy the entries from a previous post into the new one (see example below,
 
 Finally, open the webpage and check the new post appears! Bear in mind it can take 5-10 minutes for the website to update once something has been changed.
 
+## Example post
+
 ---
 title: "Introduction to Conda" 
 
