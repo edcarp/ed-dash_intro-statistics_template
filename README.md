@@ -15,7 +15,7 @@ A post on the Ed-DaSH webpage should be made once a workshop webpage has been cr
 
 Next, copy the entries from a previous post into the new one (see example below, you will need to enter edit mode by clicking on the pencil in the top right of this readme file to copy the table) to ensure you have all the required information. Then fill in the entries according to this new workshop (the dates here should be the actual dates of the workshop).
 
-Finally, open the webpage and check the new _post appears! It can take 5-10 minutes for the website to update once something has been changed.
+Finally, open the webpage and check the new post appears! Bear in mind it can take 5-10 minutes for the website to update once something has been changed.
 
 ---
 title: "Introduction to Conda" 
