@@ -57,8 +57,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <h2 id="general">Overview</h2>
 
 **Introduction to Statistics with R**
-This is a two-day, in-person workshop on the topic of statistics in R for public
-health. This workshop uses a public health dataset and examples
+This workshop uses a public health dataset and examples
 (NHANES from the US National Center for Health Statistics) but the materials are
 relevant to researchers more generally in the life, health and social sciences.
 
